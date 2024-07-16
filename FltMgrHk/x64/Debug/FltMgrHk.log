@@ -1,0 +1,11 @@
+﻿  Building 'FltMgrHk' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Driver.cpp
+  Hooks.cpp
+  HookUtils.cpp
+  Gerando Código...
+  FltMgrHk.vcxproj -> D:\vstudio2022\FltMgrHk\x64\Debug\FltMgrHk.sys
+  Done Adding Additional Store
+  Successfully signed: D:\vstudio2022\FltMgrHk\x64\Debug\FltMgrHk.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
