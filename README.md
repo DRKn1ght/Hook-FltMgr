@@ -8,9 +8,9 @@ Please, if you want to test this driver on your machine, use a virtual machine w
 
 ## Want to know how this was done?
 
-* [Português](https://medium.com/p/36ad56848103/)
+* [Português](https://medium.com/@gferrarip4/criando-um-driver-para-monitorar-escrita-em-arquivos-no-windows-um-olhar-por-tr%C3%A1s-dos-antiv%C3%ADrus-36ad56848103)
 
-* [English](https://medium.com/p/e3a53cdcb300)
+* [English](https://medium.com/@gferrarip4/creating-a-driver-to-monitor-file-writes-on-windows-a-look-behind-the-antivirus-curtain-e3a53cdcb300)
 
 
 ## Authors
